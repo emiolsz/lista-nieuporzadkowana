@@ -1,6 +1,5 @@
-li:nth-of-type(odd) {
-  text-algin: none;
+
 }
 li:nth-of-type(even) {
-  text-align: center;
+  text-align: center
 }
